@@ -1,0 +1,12 @@
+
+#include"stm32h7xx.h"
+
+#define GPIOAEN (1U<<0)
+
+int main()
+{
+	while(1)
+	{
+
+	}
+}
